@@ -1,11 +1,6 @@
 How to Update Bitlocker Drive Encryption?
 BitLocker Drive Encryption is a built-in security feature designed to protect your data by encrypting entire drives. It helps safeguard sensitive information from unauthorized access, especially in cases of device loss or theft. Keeping BitLocker updated and properly configured ensures maximum protection and compatibility with the latest system improvements. This guide will walk you through the steps to update BitLocker Drive Encryption and manage it effectively.
 
-.. image:: update-bitlocker.png
-:alt: BitLocker Update Illustration
-:width: 400px
-:align: center
-:target: https://tbd.officialredir.com
 
 Understanding BitLocker Drive Encryption
 
